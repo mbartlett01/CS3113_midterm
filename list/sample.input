@@ -1,0 +1,14 @@
+print
+del "a"
+print
+addtail "a"
+addhead "a"
+print
+addtail "b"
+addhead "b"
+print
+del "a"
+print
+del "b"
+print
+

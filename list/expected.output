@@ -1,0 +1,6 @@
+EMPTY
+EMPTY
+(a,HEAD,a),(a,a,TAIL)
+(b,HEAD,a),(a,b,a),(a,a,b),(b,a,TAIL)
+(b,HEAD,b),(b,b,TAIL)
+EMPTY
