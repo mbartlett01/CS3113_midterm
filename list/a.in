@@ -1,4 +1,6 @@
-This is some input text
-5
-2
-1
+addtail "a"
+addhead "bb"
+print
+addhead "cab"
+del "bb"
+print
